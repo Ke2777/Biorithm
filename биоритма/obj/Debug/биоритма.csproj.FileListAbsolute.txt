@@ -1,0 +1,30 @@
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\bin\Debug\биоритма.exe.config
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\bin\Debug\биоритма.exe
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\bin\Debug\биоритма.pdb
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\obj\Debug\биоритма.csprojAssemblyReference.cache
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\obj\Debug\биоритма.Form1.resources
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\obj\Debug\биоритма.Properties.Resources.resources
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\obj\Debug\биоритма.csproj.GenerateResource.cache
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\obj\Debug\биоритма.exe
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\биоритм\биоритм\биоритма\obj\Debug\биоритма.pdb
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\bin\Debug\биоритма.exe.config
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\bin\Debug\биоритма.exe
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\bin\Debug\биоритма.pdb
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csprojAssemblyReference.cache
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.Form1.resources
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.Properties.Resources.resources
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csproj.GenerateResource.cache
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csproj.CoreCompileInputs.cache
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.exe
+C:\Users\Ke27\Desktop\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.pdb
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\bin\Debug\биоритма.exe.config
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\bin\Debug\биоритма.exe
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\bin\Debug\биоритма.pdb
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csproj.AssemblyReference.cache
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csproj.SuggestedBindingRedirects.cache
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.Form1.resources
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.Properties.Resources.resources
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csproj.GenerateResource.cache
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.csproj.CoreCompileInputs.cache
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.exe
+D:\Download\Google Drive\Программные Модули\биоритм (1)\биоритм\биоритма\obj\Debug\биоритма.pdb
